@@ -48,8 +48,7 @@
 ---
 
 ## 📫 Contact Me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:본인이메일주소@gmail.com)](mailto:본인이메일주소@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=블로그주소)](블로그주소)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tutuh4845@gmail.com)](mailto:tutuh4845@gmail.com)
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=tutuh2&color=blue&style=flat-square" alt="visitor counter" />
