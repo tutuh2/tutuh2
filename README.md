@@ -1,8 +1,8 @@
 # Junyoung Song
 
-Python backend developer focused on building practical APIs and learning reliable server-side architecture.
+Python backend developer focused on building practical APIs and reliable server-side architecture.
 
-안녕하세요. Python, Django, DRF를 중심으로 백엔드 개발을 공부하고 있습니다.  
+안녕하세요. Python, Django, DRF를 중심으로 개발하는 백엔드 개발자입니다.  
 비동기 처리, 테스트, 배포 환경을 다뤄본 경험이 있습니다.
 
 ## Tech Stack
