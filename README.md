@@ -3,7 +3,7 @@
 Python backend developer focused on building practical APIs and learning reliable server-side architecture.
 
 안녕하세요. Python, Django, DRF를 중심으로 백엔드 개발을 공부하고 있습니다.  
-최근에는 MSA 구조, 비동기 처리, 테스트, 배포 환경처럼 실제 서비스 운영에 필요한 주제를 더 깊게 다루고 있습니다.
+비동기 처리, 테스트, 배포 환경을 다뤄본 경험이 있습니다.
 
 ## Tech Stack
 
