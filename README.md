@@ -18,8 +18,6 @@
 
 ## Public Projects
 
-업무 프로젝트는 공개할 수 없어, 공개 저장소에는 개인 학습·실험 프로젝트만 정리하고 있습니다.
-
 - [toy-commerce-msa](https://github.com/tutuh2/toy-commerce-msa) — Python 커머스 도메인에서 서비스 분리와 API 경계를 실험한 프로젝트
 - [apple-game](https://github.com/tutuh2/apple-game) — Python으로 게임 상태 분석과 탐색 알고리즘을 비교한 프로젝트
 
