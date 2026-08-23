@@ -1,54 +1,28 @@
 # Junyoung Song
 
-Python backend developer focused on building practical APIs and reliable server-side architecture.
+2022년 7월부터 현재까지 <!-- career-duration:start -->4년 1개월<!-- career-duration:end --> 동안 Python, Django/DRF, FastAPI를 중심으로 이커머스 백엔드를 개발하고 운영했습니다.
 
-안녕하세요. Python, Django, DRF를 중심으로 개발하는 백엔드 개발자입니다.  
-비동기 처리, 테스트, 배포 환경을 다뤄본 경험이 있습니다.
+주문·결제·클레임, OAuth 인증, ERP·Shopify 등 외부 시스템 연동을 다뤘으며, AWS/EKS 환경의 배포 구성과 운영 장애 대응을 경험했습니다. 복잡한 데이터 흐름을 추적하고 운영 가능한 구조로 개선하는 일에 관심이 있습니다.
 
 ## Tech Stack
-
-**Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Database & Infra**
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-## Projects
+## Public Projects
 
-### [toy-commerce-msa](https://github.com/tutuh2/toy-commerce-msa)
+업무 프로젝트는 공개할 수 없어, 공개 저장소에는 개인 학습·실험 프로젝트만 정리하고 있습니다.
 
-Toy commerce backend project for practicing service separation and API design.
-
-- Python 기반 커머스 도메인 실습
-- 서비스 분리, API 경계, 데이터 흐름 설계 연습
-- 백엔드 구조화와 운영 관점 학습용 프로젝트
-
-### [apple-game](https://github.com/tutuh2/apple-game)
-
-Apple game automation project comparing AI-style decision making and algorithmic approaches.
-
-- Python으로 게임 상태 분석 및 선택 로직 구현
-- 탐색/알고리즘 기반 풀이 방식 실험
-- 문제 해결 과정을 코드로 검증하는 학습 프로젝트
-
-## Currently Learning
-
-- Django REST Framework 구조화
-- 테스트 코드와 리팩터링
-- Docker 기반 개발 환경
-- 클라우드와 배포 파이프라인 기초
+- [toy-commerce-msa](https://github.com/tutuh2/toy-commerce-msa) — Python 커머스 도메인에서 서비스 분리와 API 경계를 실험한 프로젝트
+- [apple-game](https://github.com/tutuh2/apple-game) — Python으로 게임 상태 분석과 탐색 알고리즘을 비교한 프로젝트
 
 ## Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-tutuh4845%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tutuh4845@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-tutuh2-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tutuh2)
